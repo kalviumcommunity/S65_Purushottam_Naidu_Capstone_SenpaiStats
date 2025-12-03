@@ -2,6 +2,8 @@
 
 **SenpaiStats** is a full-stack anime and manga tracking platform built for otaku and casual fans alike. With a seamless interface, GraphQL-powered backend, and real-time integration with the AniList API, users can easily manage their watch/read lists, view detailed progress stats, and discover new titles. SenpaiStats aims to bring a smooth and modern experience to media tracking, combining smart data management with intuitive design.
 
+[Deployed Frontend](https://client-q4hg8uztt-purushottams-projects-fc9bfad7.vercel.app/)
+
 ---
 
 ## 🎯 Features
