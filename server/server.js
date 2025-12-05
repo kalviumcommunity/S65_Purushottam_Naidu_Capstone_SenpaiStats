@@ -1,5 +1,8 @@
 const express = require('express')
 const app = express()
+const userRoute = require('./routers/userRouter')
+
+app.use("/api", userRoute)
 
 app.get("/", (req, res) => {
     try {
@@ -18,4 +21,3 @@ app.listen(PORT, () => {
         console.error(err.message)
     }
 })
-//asdsa
